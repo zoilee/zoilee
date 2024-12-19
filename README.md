@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:478fcd,100:f99503&height=120&text=Hello&animation=&fontColor=ffd700&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 반갑습니다 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 성장하는것을 즐기며 항상 고민하는 개발자가 되고싶습니다 </div> 
+    <h2 style="border-bottom: 1px solid #000000; color: #000000;"> 반갑습니다 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #FFFFFF;"> 성장하는것을 즐기며 항상 고민하는 개발자가 되고싶습니다 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
