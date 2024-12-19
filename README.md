@@ -1,12 +1,12 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:478fcd,100:f99503&height=120&text=Hello&animation=&fontColor=ffd700&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=Hello&animation=&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #000000; color: #000000;"> 반갑습니다 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #FFFFFF;"> 성장하는것을 즐기며 항상 고민하는 개발자가 되고싶습니다 </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 반갑습니다 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 성장하는것을 즐기며 항상 고민하는 개발자가 되고싶습니다 </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
@@ -20,7 +20,7 @@
           <br/></div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=mailto:ohjs2337@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ohjs2337@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
